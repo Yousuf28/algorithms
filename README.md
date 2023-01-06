@@ -30,6 +30,7 @@
 - [https://cp-algorithms.com/](https://cp-algorithms.com/)
 - [code basics](https://github.com/codebasics/data-structures-algorithms-python)
 - [code basics youtube](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
+- [Joe James youtube](https://www.youtube.com/watch?v=Nkw6Jg_Gi4w&list=PLj8W7XIvO93rJHSYzkk7CgfiLQRUEC2Sq)
 
 # AOC22
 
