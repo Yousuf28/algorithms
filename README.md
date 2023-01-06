@@ -8,7 +8,7 @@
 - [leetcode](https://leetcode.com/)
 - [https://adventofcode.com/](https://adventofcode.com/)
 
-- [Data_Structures_and_Algorithms_Syllabus_udacity](https://github.com/Yousuf28/Algorithms_materials/blob/master/Data_Structures_and_Algorithms_Syllabus.pdf)
+- [Data_Structures_and_Algorithms_Syllabus_udacity](https://github.com/Yousuf28/AOC22/blob/main/Data_Structures_and_Algorithms_Syllabus.pdf)
 
 - [visualising data structures and algorithms through animation](https://visualgo.net/en)
 
