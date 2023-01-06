@@ -1,3 +1,36 @@
+# Algorithms_materials
+
+- [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
+- [algorithms website](https://the-algorithms.com/)
+- [R](https://github.com/TheAlgorithms/R)
+- [python](https://github.com/TheAlgorithms/Python)
+- [javascript](https://github.com/TheAlgorithms/JavaScript)
+- [leetcode](https://leetcode.com/)
+- [https://adventofcode.com/](https://adventofcode.com/)
+
+- [Data_Structures_and_Algorithms_Syllabus_udacity](https://github.com/Yousuf28/Algorithms_materials/blob/master/Data_Structures_and_Algorithms_Syllabus.pdf)
+
+- [visualising data structures and algorithms through animation](https://visualgo.net/en)
+
+- [tutorials_point](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+
+
+- [data_structures_geeksforgeeks](https://www.geeksforgeeks.org/data-structures/)
+
+- [200+ Data Structures - Important Topics](https://geeksforgeeks.quora.com/200+-Data-Structures-Important-Topics)
+
+- [algorithms_geeksforgeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+
+- [geeksforgeeks_youtube](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists)
+
+- [code basics](https://github.com/codebasics/data-structures-algorithms-python)
+- [R](https://github.com/PacktPublishing/R-Data-Structures-and-Algorithms)
+- [python](https://github.com/keon/algorithms)
+- [python](https://github.com/andreimaximov/algorithms)
+- [https://cp-algorithms.com/](https://cp-algorithms.com/)
+- [code basics](https://github.com/codebasics/data-structures-algorithms-python)
+- [code basics youtube](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
+
 # AOC22
 
 - [Awesome Advent of code](https://github.com/Bogdanp/awesome-advent-of-code)
