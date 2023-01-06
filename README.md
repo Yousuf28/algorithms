@@ -12,6 +12,7 @@
 - [R](https://github.com/AdroMine/AdventOfCode/tree/main/2022)
 - [R](https://github.com/jack-davison/jd-advent-of-code/tree/master/2022)
 - [R base](https://github.com/chorscroft/AdventOfCode2022)
+- [https://adventofcode.guslipkin.me/2022/01/2022-01](https://adventofcode.guslipkin.me/2022/01/2022-01)
 
 ## JavaScript
 - [Zero to mastery](https://aoc.zerotomastery.io)
