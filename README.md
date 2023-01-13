@@ -8,6 +8,7 @@
 - [leetcode](https://leetcode.com/)
 - [https://adventofcode.com/](https://adventofcode.com/)
 - [R leetcode](https://github.com/zf2169/Leetcode-R)
+- [R leetcode](https://github.com/songyuzhou324/LeetCode_RSolution)
 
 - [Data_Structures_and_Algorithms_Syllabus_udacity](https://github.com/Yousuf28/AOC22/blob/main/Data_Structures_and_Algorithms_Syllabus.pdf)
 
